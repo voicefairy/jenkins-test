@@ -17,3 +17,5 @@ Master slave test.
 Re-test.
 
 Lets go.
+
+Test of remote desktop CI server.
